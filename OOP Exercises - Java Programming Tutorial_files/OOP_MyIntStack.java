@@ -1,0 +1,2 @@
+<html><head><title>Error</title></head><body><head><title>Execute Access Denied</title></head>
+<body><h1>Execute Access Denied</h1>This Virtual Directory does not allow objects to be executed.</body></body></html>
